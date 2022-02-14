@@ -1,1 +1,3 @@
-# Skakova_INM_716
+# INM716-Coursework
+
+## Postgraduate student: Tamila Skakova.
