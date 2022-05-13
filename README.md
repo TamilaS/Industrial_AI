@@ -1,3 +1,3 @@
 # INM716-Coursework
 
-## Postgraduate student: Tamila Skakova.
+## Postgraduate students: Tamila Skakova and Anthony Hoang.
